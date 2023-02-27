@@ -1,5 +1,3 @@
-package leetcode.easy;
-
 public class SqrtX {
 	
 	public int sqrt(int x) {

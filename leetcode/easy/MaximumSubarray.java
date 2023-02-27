@@ -1,5 +1,3 @@
-package leetcode.easy;
-
 public class MaximumSubarray {
 	
 	public int maxSubarray(int[] nums) {

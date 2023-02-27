@@ -1,16 +1,9 @@
-package leetcode;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-import org.junit.jupiter.api.Test;
-
-import leetcode.easy.ClimbingStairs;
-import leetcode.easy.SameTree;
-
-class LeetCodeEasy {
+public class LeetCodeEasy {
 
 	@Test
-	void test() {
+	public void test() {
 		SameTree t = new SameTree();
 		
 		SameTree fstTree = null;
@@ -29,6 +22,11 @@ class LeetCodeEasy {
 		
 		t.isSameTree(fstTree, sndTree);
 		
+	}
+
+	@Test
+	public void HappyNumber() {
+		HappyNumber.main(null);
 	}
 
 }

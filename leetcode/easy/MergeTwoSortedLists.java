@@ -1,5 +1,3 @@
-package leetcode.easy;
-
 public class MergeTwoSortedLists {
 	
 	int val;

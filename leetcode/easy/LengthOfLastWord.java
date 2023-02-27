@@ -1,5 +1,3 @@
-package leetcode.easy;
-
 public class LengthOfLastWord {
 	
 	public int wordLength(String s) {

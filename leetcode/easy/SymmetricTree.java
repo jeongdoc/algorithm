@@ -1,5 +1,3 @@
-package leetcode.easy;
-
 public class SymmetricTree {
 	
 	public int val;

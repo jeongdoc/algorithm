@@ -1,5 +1,3 @@
-package leetcode.easy;
-
 public class ImplementStrStr {
 	
 	public int str(String haystack, String needle) {

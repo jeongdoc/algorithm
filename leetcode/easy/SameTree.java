@@ -1,5 +1,3 @@
-package leetcode.easy;
-
 public class SameTree {
 	
 	public int val;

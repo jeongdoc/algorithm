@@ -1,5 +1,3 @@
-package leetcode.easy;
-
 public class ClimbingStairs {
 	
 	public int climbStairs(int n) {
